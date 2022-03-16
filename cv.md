@@ -6,8 +6,8 @@ My Contact:
 ---------
 - **Address:** Plehanov st. Minsk, Belarus
 - **Email:** Flyether@gmail.com
+- **GitHub:** flyether
 
-- **Discord:** Ether(@flyether) 
 
 About Myself:
 -------------
